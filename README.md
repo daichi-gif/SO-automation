@@ -351,3 +351,6 @@ const StockOptionManager = () => {
 };
 
 export default StockOptionManager;
+
+## 更新履歴
+- 2025-08-09: テスト更新
